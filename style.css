@@ -99,6 +99,10 @@ button {
         font-size: 30px;
     }
     
+    .counter h1 br {
+        display: none;
+    }
+    
     .screen {
         width: auto;
         font-size: 30px;
