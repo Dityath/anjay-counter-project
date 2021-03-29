@@ -17,5 +17,3 @@ function reset(){
 
 add.addEventListener("click", addition);
 resetbtn.addEventListener("click", reset);
-
-console.log(i);
